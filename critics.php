@@ -19,7 +19,7 @@
     <!-- @@@ Navbar @@@ -->
     <nav class="navbar navbar-expand-lg">
       <div class="container-fluid text-center border border-dark">
-        <a class="navbar-brand"><img src="/assets/img/Capture d’écran 2022-06-12 212305.webp.png"></img></a>
+        <a class="navbar-brand"><img src="/assets/img/logo.png"></img></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -28,10 +28,10 @@
           id="navbarSupportedContent">
           <ul class="navbar-nav mb-lg-0 border border-dark">
             <li class="nav-item">
-              <a class="nav-link active" href="index.html">Actualités</a>
+              <a class="nav-link active" href="index.php">Actualités</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="critics.html">Critiques</a>
+              <a class="nav-link active" href="critics.php">Critiques</a>
             </li>
             <li class="nav-item">
               <a class="nav-link active"><i class="bi bi-person-circle"></i>Connexion</a>

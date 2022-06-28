@@ -31,13 +31,13 @@
           id="navbarSupportedContent">
           <ul class="navbar-nav mb-lg-0 border border-dark">
             <li class="nav-item">
-              <a class="nav-link active" href="index.html">Actualités</a>
+              <a class="nav-link active" href="index.php">Actualités</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="critics.html">Critiques</a>
+              <a class="nav-link active" href="critics.php">Critiques</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active"><i class="bi bi-person-circle"></i>Connexion</a>
+              <a class="nav-link active" href="login.php"><i class="bi bi-person-circle"></i>Connexion</a>
             </li>
           </ul>
         </div>
