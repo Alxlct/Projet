@@ -3,10 +3,11 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-body{
-    background-image: url(/assets/img/fetedesmeres.png);
+  .bg-frag {
+    background-image: url(/assets/img/background-F.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: auto;
   }
+
