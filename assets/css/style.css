@@ -4,10 +4,23 @@ body {
 }
 
   .bg-frag {
-    background-image: url(/assets/img/background-F.webp);
+    background-image: url(/assets/img/fetedesmeres.png);
+ 
     background-size: cover;
-    background-position: center;
+
     background-repeat: no-repeat;
-    height: auto;
+
+
   }
 
+  .bg-rose {
+    background-image: url(/assets/img/bg-flowers.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+  .bt-rose {
+    color: black;
+    background-color: #f7D9DB;
+  }

@@ -9,7 +9,7 @@ include('../elements/meta.php')
         include('../elements/navbar.php')
         ?>
         <div class="row justify-content-center p-0 m-0 text-center my-5">
-            <div class="col-10 bg-frag rounded shadow">
+            <div class="col-8 bg-frag rounded shadow">
                 <h1 class="text-center m-5">Bienvenue dans un monde parfumé</h1>
                 <p class="text-center m-5"><i>Sur cette page vous retrouverez les actualités les plus récentes liées au monde de la parfumerie moderne.
                         <br>Vous pouvez aussi vous rendre sur la page <a class="text-dark" href="critics.php">Critiques</a> afin de lire les avis postés par les utilisateurs.<br>Créez votre compte sur l'onglet <a class="text-dark" href="login.php">Connexion</a> si vous souhaitez ajouter vos propres critiques.<i></p>
