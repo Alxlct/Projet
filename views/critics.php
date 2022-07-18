@@ -8,7 +8,7 @@ include('../elements/meta.php')
     include('../elements/navbar.php')
     ?>
     <div class="row justify-content-center text-center p-0 m-0 my-5">
-      <div class="col-8 bg-frag rounded shadow">
+      <div class="col-10 bg-frag rounded shadow">
         <h1 class="text-center m-5">Bienvenue dans l'onglet Critiques</h1>
         <p class="text-center m-5"><i>Sur cette page vous retrouverez toutes les critiques rédigées par les utilisateurs. <br>Vous pouvez aussi vous rendre sur la page <a class="text-dark" href="home.php">Actualités</a> afin de vous tenir informé der dernières sorties.<br>Créez votre compte sur l'onglet <a class="text-dark" href="login.php">Connexion</a> si vous souhaitez ajouter vos propres critiques.<i></p>
       </div>
